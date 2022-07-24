@@ -1,0 +1,85 @@
+﻿{
+    "SERVER": {
+        "ID": "998322771417366610",
+        "Name": "† V E N U S"
+    },
+
+    "TOKENS": {
+        "Requirements": "", 
+        "Statistics": "",
+        "Voucher": "",
+
+        "SECURITY": {
+            "MAIN": "k",
+            "SEC_ONE": "OTkyMDQzMDk5ODg0OSAFASFASFASFTAwNDYy.Gug39C.fgeuJT6TbtSxZEtPR7qphBZ0Y14AzsRj45AFAk",
+            "SEC_TWO": "OTk2MTM3MjUxMTIzASFASFASFASFNzczNTAw.G5pCAI.tIIwI0xWh844ZLRBipScsEyznkX9G3esmPA4aQ",
+            "SEC_THREE": "OTg5NjM3MDA4MDM1MDASFASFSAFASFASFQ1NDA3.G_PWMG.4bbd07UyociEYt4Dc0eK402BcvVlQaKZ1g-p1k",
+            "SEC_FOUR": "OTg5OTU0Njk5NjM5NzASFASFASFASk1NzEy.GfmF8Q.rE7W8936u8Y8XphoHM4G7SK4ePqoXq6DlZBRiU",
+            "DISTS": [
+                "OTg5NjM2NTAwOTAxNzI4Mjc4.FASAASGaVQvH.shzYAGG11r2Fotjjrn2A2zfiwFuhaz1C0vQkE8",
+                "OTkyMDI3ODUzMTIwMDc3ODQFASFASFSAF0.G078jT.i9QePNhCoAXE1AgWHgpIEfURsB73HC5xmG71tA",
+                "OTkyMTk2NjA3NTE0Nzc5NzEx.GSAFSAFASFASFSAudhgp.5zL-98kjzhh7R7sTEd38Ecnw8jxCQfCgXQXYow",
+                ""
+            ],
+            "GUILD_OWNER_TOKEN": ""
+        },
+
+        "WELCOME": {
+            "Active": true,
+            "WELCOMES": [
+                "",
+                "",
+                "",
+                "",
+                ""
+        ],
+            "WELCOME_CHANNELS": [
+                "",
+        "",
+        "",
+        "",
+        ""
+            ]
+        }
+    },
+    "botSettings": {
+        "Prefixs": [".","+","!","/","-"]
+    },
+
+
+
+    "WELCOMES": [
+        "",
+                "",
+                "",
+                "",
+                ""
+    ],
+
+    "WELCOME_CHANNELS": [
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+
+    "embed": {
+        "iconURL": "",
+        "başlık": "",
+        "altbaşlık": "Developed By Ramal",
+        "renk": "RANDOM"
+      },
+
+    "botStatus": {
+        "Status": "idle",
+        "Name": "Developed By Ramal",
+        "voiceChannelID": "998322774953164821"
+    },
+    "Database" : {
+        "Active": true,
+        "MongoURL": "mongodb+srv://VaIn3131:zaferc48@cluster0.j75rw.mongodb.net/myFirstDatabasesss?retryWrites=true&w=majority"
+    }
+
+}
+
